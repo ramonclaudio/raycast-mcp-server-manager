@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rmncldyo-raycast-mcp-server-manager-badge.png)](https://mseep.ai/app/rmncldyo-raycast-mcp-server-manager)
+
 <div align="center">
   <h1>MCP Server Manager</h1>
 
