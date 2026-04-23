@@ -5,7 +5,7 @@
   <a href="https://raycast.com/" target="_blank" rel="noopener noreferrer" title="Raycast" aria-label="Raycast" style="text-decoration: none; cursor: pointer;">
     <img src="https://img.shields.io/badge/Raycast-FF6363?style=for-the-badge&logo=raycast&logoColor=white" alt="Raycast">
   </a>
-  <a href="https://github.com/rmncldyo/raycast-mcp-server-manager/releases/latest" target="_blank" rel="noopener noreferrer" title="MCP Server Manager" aria-label="MCP Server Manager Version" style="text-decoration: none; cursor: pointer;">
+  <a href="https://github.com/ramonclaudio/raycast-mcp-server-manager/releases/latest" target="_blank" rel="noopener noreferrer" title="MCP Server Manager" aria-label="MCP Server Manager Version" style="text-decoration: none; cursor: pointer;">
     <img src="https://img.shields.io/badge/v1.0.0-%230E0E10?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAARISURBVHgBvZdLTFxVGMfPvXd8dWFSjV1UN5ZVTXe4QTcs3BA2JkpCwq5EUhJjbUI0+CQxdiFKLFEQCaTRRXFBJi5AEWLEGFAMQbtpCCFTOrS8GZ5DYObO9P+/833lZDq0zHTgSy7MnHvP+X3v744xhYvX2Nj47NLS0n8pSBrC/zMzM/9UVlaexP2QOUJxAb7gQ9I5hOt7e3vvUElzBOKBcZEQGJwEaK2np6ektLT0sYaGhnO4t8V1iB8Oh0tMkcVLJBLv+RlJrq2tXTf3uzoUj8fn6Qk8G8N3xxRJ3O3t7Y8VvrGxMWYyLnbAcmZnZ/+qqqoKXN7U1HRK0iJtiiQe4J/RrZAE4H+ajOVOeXl5iNEgDHkxrhs0HxCaE7JUsCdcAL9Q+Pz8/IDCKyoqntBEpBKw3OWG6urq08JPQfE7CMlcJBLplvPyqg53ZWXl62SGnoCFPxtxe11d3QkuCzxtWRlC7FcPqg4odJnnHgq+vr7+DQ7zcSVXV1d/UnhNTc3TCmesbTj23NAqAOz22NjYxampqUY+irUEz4MhnzxMCRfA7wimzM3N/SBwt76+/uQBcG9nZydCOC1dXFzM7gMewD9K+aY0YXOJt7CwcJVwcXunwtvb20/RAnVpFvwOzvWp3PLycr3s8To7O18Qa4NL946Pj3+QE46YXyOcILjzW90I+PP0RhY88BaSbEnhsVjsvMBDOOs813hPH4Y3f+d+JPPIfXBYG2acCMLmKwL32traznA9FxyHx5hfdH00Gq1RyxHCCwqHghHxlAMF/uUZqIrfst3+i8JhxVd60PDw8FmGIkdjIXxD4dPT02+YTIm5CMHbOIahTiI0N42VC5ID/sjIyOv3ToLm3yczKepvbW1d1g21tbXPiOUpgTsWPC6VRXilwDkn3tU5gRBOmv26d/QcSd79xjQ5OXmJ6m5ubn5k9svDtWvYhuPrrpRVEntfU2/t7u6+b82J/7Pgad3T3Nz8osnqjOqie7XJbkZNqZj1HA/ytab7+/tflb0ulP9UuiXnxN8W3KjV3DM4OHjWHGZMDwwMVIvWCdHWFRcGVvT19b2slgP+ubZq5M8f2XCZjMmWlpYzh4JTent737QUCITJQ4Fy59RyuPpLhSPDf80Fp8JdXV2nzSFbcCBMQAJ5cbzqZky/J+Uzs/2Kzgl8DotSjiircJ8NLC+4iIukiumwKSsre8q+B1dftebEtYPgbN2FwAPheLXe+9jpthHvqCQnvyfZtg+Cc2gVDFdL+Qfnxe2S1OrAlLskzwRw1ZVKc1ybR4Tb4mB6PTc6OvrWxMTEh93d3a8INICLp1IKx7OPmyK+Cz5QMb4NW3Ads8cCNwLXdwNtWMcDN5mumLB6e0HwR0kSQoOm09HRwd7uydqxiYPJGdU229raWmKO6KfYA8UeNENDQy+ZPL1alISRcR1cjuPk5YWi/IQGlD9ebuE/K8ExeeTCXZwc0upYBKEUAAAAAElFTkSuQmCC&label=mcp%20server%20manager&labelColor=%23303032&color=%230E0E10&link=https%3A%2F%2Fwww.cursor.com%2Fen" alt="MCP Server Manager Version">
   </a>
   </div>
@@ -39,7 +39,7 @@
   <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer" title="MIT License" aria-label="MIT License" style="text-decoration: none; cursor: pointer;">
     <img src="https://img.shields.io/badge/License-MIT-8b959e?style=for-the-badge&logo=open-source-initiative&logoColor=FFFFFF&labelColor=750014" alt="License MIT">
   </a>
-  <a href="https://github.com/sponsors/rmncldyo" target="_blank" rel="noopener noreferrer" title="GitHub Sponsors" aria-label="GitHub Sponsors" style="text-decoration: none; cursor: pointer;">
+  <a href="https://github.com/sponsors/ramonclaudio" target="_blank" rel="noopener noreferrer" title="GitHub Sponsors" aria-label="GitHub Sponsors" style="text-decoration: none; cursor: pointer;">
     <img src="https://img.shields.io/badge/Sponsor-FF5F9E?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor">
   </a>
 </div>
@@ -94,7 +94,7 @@ Raycast Store:
 Manual:
 
 ```bash
-git clone https://github.com/rmncldyo/raycast-mcp-server-manager.git
+git clone https://github.com/ramonclaudio/raycast-mcp-server-manager.git
 ```
 
 ```bash
@@ -335,7 +335,7 @@ Don't rely on this if you're editing configs directly. You break it, you own it.
 - **Servers missing:** Verify config files exist, check `JSON` syntax, verify permissions
 - **Connection failures:** Test server accessibility, verify commands work, check environment variables
 
-[Issues](https://github.com/rmncldyo/raycast-mcp-server-manager/issues) | [Discussions](https://github.com/rmncldyo/raycast-mcp-server-manager/discussions)
+[Issues](https://github.com/ramonclaudio/raycast-mcp-server-manager/issues) | [Discussions](https://github.com/ramonclaudio/raycast-mcp-server-manager/discussions)
 
 ## Contributing
 
@@ -358,5 +358,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <div align="center">
-  <a style="text-decoration: none; color: #000; cursor: pointer;" href="https://rmncldyo.com/" target="_blank" alt="RMNCLDYO">Made with ❤️ by RMNCLDYO</a>
+  <a style="text-decoration: none; color: #000; cursor: pointer;" href="https://ramonclaudio.com/" target="_blank" alt="Ramon Claudio">Made with ❤️ by Ramon Claudio</a>
 </div>

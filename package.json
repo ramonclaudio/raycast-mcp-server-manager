@@ -5,15 +5,15 @@
   "title": "MCP Server Manager",
   "description": "Manage Model Context Protocol (MCP) servers for AI editors like Cursor, Windsurf, and VS Code",
   "icon": "extension-icon.png",
-  "author": "rmncldyo",
+  "author": "ramonclaudio",
   "license": "MIT",
-  "homepage": "https://github.com/rmncldyo/raycast-mcp-server-manager#readme",
+  "homepage": "https://github.com/ramonclaudio/raycast-mcp-server-manager#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rmncldyo/raycast-mcp-server-manager.git"
+    "url": "git+https://github.com/ramonclaudio/raycast-mcp-server-manager.git"
   },
   "bugs": {
-    "url": "https://github.com/rmncldyo/raycast-mcp-server-manager/issues"
+    "url": "https://github.com/ramonclaudio/raycast-mcp-server-manager/issues"
   },
   "keywords": [
     "raycast",
@@ -100,7 +100,7 @@
   ],
   "funding": {
     "type": "individual",
-    "url": "https://github.com/sponsors/rmncldyo"
+    "url": "https://github.com/sponsors/ramonclaudio"
   },
   "dependencies": {
     "@raycast/api": "^1.99.3",
